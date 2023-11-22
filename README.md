@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Java Language<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Send me an e-mail or add me on Linkedln<br>
+🔭 I’m currently working on C and C++ Programming Language<br>🌱 I’m currently learning Python<br>💬 Send me an e-mail or add me on Linkedln<br>
 
 
 ## 🌐 Socials:
